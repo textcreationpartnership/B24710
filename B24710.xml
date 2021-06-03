@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords Justices and Council, a proclamation. Sydney, Tho. Coningsby. Whereas there are dayly great complaints made unto us, that severall of their Majesties Protestant subjects and their tenants, and others who live peacably under their Majesties protection, are rob'd and plundered of their goods, horses, and other cattle, ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24710</idno><idno type="EEBO-CITATION">99883447</idno>
+  <idno type="VID">186695</idno>
+  <idno type="EEBO-PROQUEST">2264207125</idno>
+  
+            <idno type="STC">Wing I439</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[120]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G. 5869[8]</idno>
+            <idno type="STC">ESTC R207976</idno>
+            <idno type="PROQUEST">ocm99883447</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883447e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186695)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[120]; C5:3[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords Justices and Council, a proclamation. Sydney, Tho. Coningsby. Whereas there are dayly great complaints made unto us, that severall of their Majesties Protestant subjects and their tenants, and others who live peacably under their Majesties protection, are rob'd and plundered of their goods, horses, and other cattle, ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook assignee of Benjamin Tooke printer to the King and Queen at their Majesties Printing-House on Ormonde Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>"Given at their Majesties castle of Dublin the 30th day of September 1690 and in the second year of their Majestys reign".</note>
+                  <note>"Owing to the depredations on protected Protestant families by which a famine may ensue, no horses, cattle, or goods are to be bought except in market overt."--Steele.</note>
+                  <note>Steele notation: Arms 193. unto to Reign.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186695:1"/>
+            <head>
+               <figure>
+                  <q>HO<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </q>
+                  <q>JE MEIN TIENDRAY</q>
+               </figure>
+            </head>
+            <head>BY THE LORDS JUSTICES of IRELAND, A PROCLAMATION.</head>
+            <opener>
+               <salute>Sydney, Tho. Coningsby.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS there are Dayly Great Complaints made unto Vs, that severall of their Majesties <hi>Protestant</hi> Subjects and their Tenants, and others who live peaceably under their Majesties <hi>Protection,</hi> are Rob'd and Plundered of their Goods, Horses, and other Cattle, whereby multitudes of Good Sub<g ref="char:EOLhyphen"/>jects are Ruin'd and Tyllage hinderd, so as a <hi>Famine</hi> is like to ensue, &amp; although by the Law no sales are good so as to alter any property, unless they be made in Publick Fairs or Markets or by the right Owners, yet several persons of this Kingdom out of a greedy and co<g ref="char:EOLhyphen"/>vetous disposition for inconsiderable summs, buy from Suspitions persons in private places such stolen and plundered Goods, Cattle and Horses, whereby the said disorderly persons are incouraged in their Robberies and Violence. These are therefore to Will and Command all their Majesties Subjects to forbear buying any Goods, Cattle or Horses except in Fairs and Markets Overt, unlesse from such of whose Property they are assured. Hereby declare<g ref="char:EOLhyphen"/>ing that such Sales as shall be made contrary to this Our Proclamation shall be at the peril of the <hi>Buyers.</hi> and We hereby Require all Mayors She<g ref="char:EOLhyphen"/>riffs, Iustices of the Peace, Magistrates and other his Majesties good Sub<g ref="char:EOLhyphen"/>jects, that if any <hi>Stolen Goods, Cattle</hi> or <hi>Horses</hi> be found in the Possession of any Person whatsoever; That notwithstanding such Person in whose posses<g ref="char:EOLhyphen"/>sion they shall be found doe pretend any such Illegal and Prohibited <hi>Buying</hi> for their Excuse, Yet they proceed against them as <hi>Abettors</hi> of and <hi>Accessorys</hi> to <hi>Felony,</hi> and use their utmost endeavors to restore the same to the Right Owners.</p>
+            <closer>
+               <dateline>Given at their Majesties Castle of <hi>Dublin</hi>
+                  <date>the 30th day of <hi>September</hi> 1690. and in the Second year of their <hi>Majestys</hi> Reign</date>
+               </dateline>
+               <lb/> God Save the King and Queen.<lb/>
+               <signed>Jo<seg rend="sup">n</seg>. Davis.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN</hi> Printed by <hi>Andrew Crook</hi> Assignee of <hi>Benjamin Tooke</hi> Printer to the King and Queen at their <hi>Majesties</hi> Printing-House on <hi>Ormonde Key.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
